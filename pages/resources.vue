@@ -49,12 +49,11 @@
       >
     </p>
     <p class="mb-3">
-      The github repository of this website. It can be cloned and then run
-      locally on your device. If you would like to contrubute to this site we
-      welcome any pull requests and it will be reviewed as soon as possible:
-      <a href="https://github.com/uoe-dlam/witches" target="_blank" class="link"
-        >Witches Github Repository</a
-      >
+      The <a href="https://github.com/uoe-dlam/witches" target="_blank" class="link">
+      GitHub repository</a> of this website can be cloned and then run
+      locally on your device. If you would like to contribute to this site, we
+      welcome any pull requests and will endeavour to review them as soon as
+      possible.
     </p>
   </div>
 </template>
