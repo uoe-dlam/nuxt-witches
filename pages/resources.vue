@@ -48,6 +48,13 @@
         >WikiProject Scotland's Accused Witches</a
       >
     </p>
+    <p class="mb-3">
+      The <a href="https://github.com/uoe-dlam/witches" target="_blank" class="link">
+      GitHub repository</a> of this website can be cloned and then run
+      locally on your device. If you would like to contribute to this site, we
+      welcome any pull requests and will endeavour to review them as soon as
+      possible.
+    </p>
     <h2>User Guide</h2>
     <div class="w-full mb-8">
       <iframe
