@@ -49,7 +49,7 @@
       >
     </p>
     <h2>User Guide</h2>
-    <div class="w-full">
+    <div class="w-full mb-8">
       <iframe
         id="kaltura_player"
         type="text/javascript"
